@@ -1,4 +1,3 @@
 <?php
-echo "Halo";
-echo "Update Otomatis via Webhook Berhasil!!!";
+echo "<h1>Halo, ini update dari kelompok KSI!</h1>";
 ?>
