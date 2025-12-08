@@ -1,3 +1,3 @@
 <?php
-echo "<h1>Halo, ini update dari kelompok KSI!</h1>";
+echo "<h1>Halo, ini update dari kelompok KSI</h1>";
 ?>
