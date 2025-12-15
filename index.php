@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Tugas KSI Kelompok</title>
+    <title>Tugas KSI Kelompokk</title>
     <style>
         body {
             font-family: sans-serif;
